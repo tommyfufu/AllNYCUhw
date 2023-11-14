@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "sockop.h": "c",
+        "sstream": "c",
+        "regex": "c",
+        "types.h": "c",
+        "stdlib.h": "c",
+        "socket.h": "c",
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "iostream": "cpp",
+        "system_error": "cpp",
+        "exception": "c",
+        "new": "c"
+    }
+}
